@@ -3,6 +3,8 @@ module.exports = {
         console.log('hi')
         console.log('hi')
         console.log('hi')
+        console.log('hi')
+        console.log('hi')
         return a+b;
     }
 };
