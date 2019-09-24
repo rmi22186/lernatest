@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/rmi22186/rmipack2/issues"
   },
-  "homepage": "https://github.com/rmi22186/rmipack2#readme"
+  "homepage": "https://github.com/rmi22186/rmipack2#readme",
+  "gitHead": "dddc0821328cd87cfc6f356c59917fbd4f3cd85c"
 }
