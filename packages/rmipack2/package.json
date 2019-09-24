@@ -11,13 +11,10 @@
   },
   "author": "",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rmi22186/lernatest/tree/master/packages/rmipack2.git"
-  },
+  "repository": "https://github.com/rmi22186/lernatest/tree/master/packages/rmipack2.git",
   "bugs": {
     "url": "https://github.com/rmi22186/rmipack2/issues"
   },
-  "homepage": "https://github.com/rmi22186/rmipack2#readme",
-  "gitHead": "dddc0821328cd87cfc6f356c59917fbd4f3cd85c"
+  "homepage": "https://github.com/rmi22186/lernatest/tree/master/packages/rmipack2.git#readme",
+  "gitHead": "a06a2746a080948bea30c568ee9bc3ce8d626e60"
 }
