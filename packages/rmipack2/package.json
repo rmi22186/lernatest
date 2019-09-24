@@ -13,7 +13,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rmi22186/rmipack2.git"
+    "url": "git+https://github.com/rmi22186/lernatest/tree/master/packages/rmipack2.git"
   },
   "bugs": {
     "url": "https://github.com/rmi22186/rmipack2/issues"
