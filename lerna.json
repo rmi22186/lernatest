@@ -3,5 +3,10 @@
   "packages": [
     "packages/*"
   ],
+  "command": {
+    "version": {
+      "message": "Publish version %s"
+    }
+  },
   "version": "independent"
 }
