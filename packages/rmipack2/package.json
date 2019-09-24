@@ -1,6 +1,6 @@
 {
   "name": "rmipack2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "testing lerna package 2",
   "main": "src/index.js",
   "files": [
