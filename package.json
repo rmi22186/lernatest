@@ -212,7 +212,7 @@
     "mime-types": "^2.1.24",
     "mimic-fn": "^1.2.0",
     "minimatch": "^3.0.4",
-    "minimist": "^0.0.8",
+    "minimist": "^1.2.5",
     "minimist-options": "^3.0.2",
     "mixin-deep": "^1.3.2",
     "mkdirp": "^0.5.1",
